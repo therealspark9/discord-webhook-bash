@@ -6,6 +6,7 @@ You will be propted for the "Username" "WebHook" "Message"
 You can also create a file named config and put your Username and webhook at line one and two respectively
 
 ## Installation
+Run the following commands:
 ```
 cp script.sh discord-webhook
 chmod +x discord-webhook
